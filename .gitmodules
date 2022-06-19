@@ -7,3 +7,6 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/rari-capital/solmate
+[submodule "protocol-forge/lib/vest_minimal"]
+	path = protocol-forge/lib/vest_minimal
+	url = https://github.com/parseb/vest_minimal
