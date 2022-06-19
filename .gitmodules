@@ -1,3 +1,6 @@
 [submodule "protocol-forge/lib/openzeppelin-contracts"]
 	path = protocol-forge/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/vest_minimal"]
+	path = lib/vest_minimal
+	url = https://github.com/parseb/vest_minimal
